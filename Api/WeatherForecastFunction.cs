@@ -35,7 +35,7 @@ namespace ApiIsolated
 
             return response;
         }
-
+        
         private string GetSummary(int temp)
         {
             var summary = "Mild";
